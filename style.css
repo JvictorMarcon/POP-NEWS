@@ -62,6 +62,7 @@ footer{
     display: flex;
     justify-content: center;
     border-radius: 15px;
+    /*div do anuncio*/
 }
 .box3{
     height: 200px;
@@ -85,7 +86,7 @@ footer{
     padding:15px;
     transition:color 0.5s ease;
     transition: all 0.5s ease;
-   
+   /*Organiza a noticia do Linkin Park*/
 }
 .insidee:hover{
     scale: 1.03;
@@ -98,7 +99,7 @@ footer{
     display: flex;
     justify-content: space-around;
     flex-direction:column;
-   
+   /*É a div que contem as divs up1 que são as noticias menores*/
 
 }
 .l3{
@@ -110,6 +111,7 @@ footer{
     gap: 10px;
     transition:color 0.5s ease;
     transition: all 0.5s ease;
+    /*LOW 3 é a classe que se refere as noticias menore*/
    
 }
 .insidee img{
@@ -126,6 +128,7 @@ footer{
     gap: 10px;
     transition:color 0.5s ease;
     transition: all 0.5s ease;
+    /*São as caixinhas menores com as noticias do PAPA*/
    
 }
 .up1:hover{
